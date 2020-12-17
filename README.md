@@ -1,2 +1,2 @@
 # Monster-Rolodex
-Website with Cards Components with SearchField. 
+Website of Cards Components with SearchField. 
